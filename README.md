@@ -1,6 +1,6 @@
 # Projeto de Engenharia de Dados — ETL de Livros 📚
 
-Projeto desenvolvido no MBA em Data Science e Analytics (ESALQ/USP), com foco em aplicar um processo ETL (Extração, Transformação e Carga) sobre uma base de livros, utilizando Python e MySQL.
+Projeto desenvolvido no MBA em Data Science e Analytics (ESALQ/USP), com foco em aplicar um processo ETL (Extração, Transformação e Carregamento) sobre uma base de livros, utilizando Python e MySQL.
 
 ---
 
